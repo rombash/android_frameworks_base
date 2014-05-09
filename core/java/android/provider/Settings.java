@@ -3171,6 +3171,13 @@ public final class Settings {
                 "quick_tiles_per_row_duplicate_landscape";
 
         /**
+         * Let Quick Settings Panel Tiles vibrate on click
+         *
+         * @hide
+         */
+        public static final String QUICK_SETTINGS_TILES_VIBRATE = "quick_settings_tiles_vibrate";
+
+        /**
          * The OpenCNAM paid account ID
          *
          * @hide
